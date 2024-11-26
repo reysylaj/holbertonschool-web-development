@@ -1,13 +1,13 @@
 @import '10-colors';
 
-.red {
+&.red {
   color: $red;
 }
 
-.green {
+&.green {
   color: $green;
 }
 
-.blue {
+&.blue {
   color: $blue;
 }
